@@ -18,13 +18,13 @@ import JC from "./assets/tech_logo/JC.png";
 
 // Cyber Security Section Logo's
 import os from "./assets/tech_logo/os.png";
-import EH from "./assets/tech_logo/eh.png";
-import NS from "./assets/tech_logo/ns.png";
-import CG from "./assets/tech_logo/cg.png";
-import VAPT from "./assets/tech_logo/vapt.png";
-import CTI from "./assets/tech_logo/cti.png";
-import DF from "./assets/tech_logo/df.png";
-import SIR from "./assets/tech_logo/sir.png";
+import EH from "./assets/tech_logo/EH.png";
+import NS from "./assets/tech_logo/NS.png";
+import CG from "./assets/tech_logo/CG.png";
+import VAPT from "./assets/tech_logo/VAPT.png";
+import CTI from "./assets/tech_logo/CTI.png";
+import DF from "./assets/tech_logo/DF.png";
+import SIR from "./assets/tech_logo/SIR.png";
 
 // Tools Section Logo's
 import VC from "./assets/tech_logo/VC.png";
