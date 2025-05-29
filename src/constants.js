@@ -234,24 +234,17 @@ export const projects = [
       "https://github.com/CyberSayanta/GitHub-Profile-Detective",
     webapp: "https://git-hub-profile-detective-ph283qy3b-sayanta-haldars-projects.vercel.app/",
   },
-  // {
-  //   id: 1,
-  //   title: "CS Prep",
-  //   description:
-  //     "A full-stack quiz-based platform designed for GATE/UGC NET students to practice previous year questions and create customized tests. The platform offers comprehensive profile stats and detailed results, helping students track and improve their preparation journey effectively.",
-  //   image: csprepLogo,
-  //   tags: [
-  //     "React JS",
-  //     "Node.js",
-  //     "MongoDB",
-  //     "Express",
-  //     "HTML",
-  //     "CSS",
-  //     "JavaScript",
-  //   ],
-  //   github: "https://github.com/codingmastr/CSPrep",
-  //   webapp: "https://csprep.netlify.app/",
-  // },
+  {
+    id: 1,
+    title: "Image Search App",
+    description:
+      "A React.js-based image search application that allows users to search and download high-quality images from the web. Built using external APIs to ensure a vast library of results for various queries.",
+    image: imagesearchLogo,
+    tags: ["React JS", "API", "Search Feature", "CSS", "Javascript"],
+    github: "https://github.com/CyberSayanta/Image-Search-App",
+    webapp: "https://image-search-app-sayanta.netlify.app/",
+  },
+  // 
   // {
   //   id: 2,
   //   title: "Movie Recommendation App",
@@ -304,13 +297,21 @@ export const projects = [
   // },
   // {
   //   id: 7,
-  //   title: "Image Search App",
+  //   title: "CS Prep",
   //   description:
-  //     "A React.js-based image search application that allows users to search and download high-quality images from the web. Built using external APIs to ensure a vast library of results for various queries.",
-  //   image: imagesearchLogo,
-  //   tags: ["React JS", "API", "Search Feature", "CSS", "Javascript"],
-  //   github: "https://github.com/codingmastr/Image-Search-App",
-  //   webapp: "https://imagsearch.netlify.app/",
+  //     "A full-stack quiz-based platform designed for GATE/UGC NET students to practice previous year questions and create customized tests. The platform offers comprehensive profile stats and detailed results, helping students track and improve their preparation journey effectively.",
+  //   image: csprepLogo,
+  //   tags: [
+  //     "React JS",
+  //     "Node.js",
+  //     "MongoDB",
+  //     "Express",
+  //     "HTML",
+  //     "CSS",
+  //     "JavaScript",
+  //   ],
+  //   github: "https://github.com/codingmastr/CSPrep",
+  //   webapp: "https://csprep.netlify.app/",
   // },
   // {
   //   id: 8,
