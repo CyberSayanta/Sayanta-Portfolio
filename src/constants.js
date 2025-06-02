@@ -63,6 +63,7 @@ import webverLogo from "./assets/work_logo/web_dig.png";
 import cmLogo from "./assets/work_logo/cm.png";
 import imagesearchLogo from "./assets/work_logo/image_search.png";
 import removebgLogo from "./assets/work_logo/remove_bg.png";
+import vercel from "./assets/tech_logo/vercel.png";
 
 export const SkillsInfo = [
   {
@@ -137,6 +138,7 @@ export const SkillsInfo = [
       { name: "Netlify", logo: netlifyLogo },
       { name: "Figma", logo: figmaLogo },
       { name: "Vibe Coding", logo: VC },
+      { name: "Vercel", logo: vercel },
     ],
   },
 ];
@@ -147,7 +149,7 @@ export const experiences = [
     img: IS,
     role: "Security Admin Associate",
     company: "Infotech Solutions",
-    date: "May 2025 - Jully 2025",
+    date: "May 2025 - Present",
     desc: "🔐 Collaborating with IT and development teams to secure systems and applications 🛡️ Performing security assessments using tools like OWASP ZAP and Burp Suite 📊 Participating in threat modeling, code reviews, and weekly security audits 📚 Continuously learning new cybersecurity methodologies, frameworks, and best practices",
     skills: [
       "Updated Soon",
@@ -166,7 +168,11 @@ export const experiences = [
     date: "May 2025 - June 2025",
     desc: "🛡️ This internship opportunity serves as an educational engagement, aimed at providing Sayanta with practical, real-world exposure to cybersecurity practices, tools, and protocols under the guidance of experienced professionals.",
     skills: [
-      "Updated Soon",
+      "Caesar Cipher",
+      "Network Packet Analyzer",
+      "Password Complexity Checker",
+      "Pixel Manipulation for Image Encryption",
+      "Simple Keylogger",
     ],
   },
   {
@@ -174,10 +180,10 @@ export const experiences = [
     img: CSI,
     role: "CSI Accredited Student",
     company: "Computer Society of India",
-    date: "Feb 2025 - Feb 2026",
+    date: "Feb 2025 - Present",
     desc: "💻 This demonstrates their commitment to staying updated with industry trends and their proactive engagement with a community of IT experts, ensuring they are well-prepared for the challenges and opportunities of the global digital economy. We celebrate their initiative in building strong professional foundations.",
     skills: [
-      "Updated Soon",
+      "Quantum Computing",
     ],
   },
   
