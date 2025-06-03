@@ -15,6 +15,7 @@ import firebaseLogo from "./assets/tech_logo/firebase.png";
 import AWS from "./assets/tech_logo/AWS.png";
 import KOTLIN from "./assets/tech_logo/KOTLIN.png";
 import JC from "./assets/tech_logo/JC.png";
+import Sayanta Haldar_CV_2025 from "./assets/Sayanta Haldar_CV_2025.pdf";
 
 // Cyber Security Section Logo's
 import os from "./assets/tech_logo/os.png";
