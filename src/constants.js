@@ -251,16 +251,16 @@ export const projects = [
     webapp: "https://image-search-app-sayanta.netlify.app/",
   },
   // 
-  // {
-  //   id: 2,
-  //   title: "Movie Recommendation App",
-  //   description:
-  //     "A React-based web application that provides movie recommendations based on different criteria, such as genres, user preferences, and popular trends. The intuitive design and smooth experience make it a go-to app for movie enthusiasts.",
-  //   image: movierecLogo,
-  //   tags: ["React JS", "API", "HTML", "CSS", "JavaScript"],
-  //   github: "https://github.com/codingmastr/Movie-Recommendation-App",
-  //   webapp: "https://movie-recommendation-app-jet.vercel.app/",
-  // },
+  {
+    id: 2,
+    title: "Movie Recommendation App",
+    description:
+      "A React-based web application that provides movie recommendations based on different criteria, such as genres, user preferences, and popular trends. The intuitive design and smooth experience make it a go-to app for movie enthusiasts.",
+    image: movierecLogo,
+    tags: ["React JS", "API", "HTML", "CSS", "JavaScript"],
+    github: "https://github.com/CyberSayanta/Movie-Recommendation-App.git",
+    webapp: "https://movie-recommendation-app-iota.vercel.app/",
+  },
   // {
   //   id: 3,
   //   title: "Email Validator NPM Package",
@@ -281,52 +281,9 @@ export const projects = [
   //   github: "https://github.com/codingmastr/Task-Reminder-Tool",
   //   webapp: "chrome://extensions/?id=kngheeibjnnidhfoomkpnbeghackheci",
   // },
-  // {
-  //   id: 5,
-  //   title: "Webverse Digital",
-  //   description:
-  //     "The official website for Webverse Digital, a creative digital marketing agency. Built using HTML, CSS, and JavaScript, it features visually appealing animations and a clean design to showcase the agency's services.",
-  //   image: webverLogo,
-  //   tags: ["HTML", "CSS", "JavaScript", "Framer Motion"],
-  //   github: "https://github.com/codingmastr/Webverse-Digital",
-  //   webapp: "https://webversedigital.com/",
-  // },
-  // {
-  //   id: 6,
-  //   title: "Coding Master",
-  //   description:
-  //     "An ed-tech platform where users can access tech and coding-related blogs, notes, interview questions, e-books, and premium content with payment integration. Built with full-stack technologies for a seamless learning experience.",
-  //   image: cmLogo,
-  //   tags: ["React JS", "Node.js", "MongoDB", "Express", "Payment Integration"],
-  //   github: "https://codingmasterweb.in/",
-  //   webapp: "https://codingmasterweb.in/",
-  // },
-  // {
-  //   id: 7,
-  //   title: "CS Prep",
-  //   description:
-  //     "A full-stack quiz-based platform designed for GATE/UGC NET students to practice previous year questions and create customized tests. The platform offers comprehensive profile stats and detailed results, helping students track and improve their preparation journey effectively.",
-  //   image: csprepLogo,
-  //   tags: [
-  //     "React JS",
-  //     "Node.js",
-  //     "MongoDB",
-  //     "Express",
-  //     "HTML",
-  //     "CSS",
-  //     "JavaScript",
-  //   ],
-  //   github: "https://github.com/codingmastr/CSPrep",
-  //   webapp: "https://csprep.netlify.app/",
-  // },
-  // {
-  //   id: 8,
-  //   title: "Image Background Remover",
-  //   description:
-  //     "An efficient background removal app built with React.js and API integration. Users can upload any image, remove the background, and download the transparent version for further use.",
-  //   image: removebgLogo,
-  //   tags: ["React JS", "API", "Image Processing", "HTML", "CSS", "Javascript"],
-  //   github: "https://github.com/codingmastr/Image-Background-Remover",
-  //   webapp: "https://removeyourbg.netlify.app/",
-  // },
+  // 
+  
 ];
+
+
+
