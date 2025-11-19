@@ -22,9 +22,9 @@ const About = () => {
           </h2>
           {/* Skills Heading with Typing Effect */}
           <h3 className="text-xl sm:text-2xl md:text-3xl font-semibold mb-4 text-[#8245ec] leading-tight">
-            <span className="text-white">I'm a </span>
+            <span className="text-white">I&apos;m a </span>
             <ReactTypingEffect
-              text={[
+              text={[  
                 "Fullstack Developer",
                 "Cyber Security Analyst",
                 "Programmer",
