@@ -1,49 +1,70 @@
-# React + Vite
+# < Sayanta / Haldar > - Portfolio Website
 
-# Sayanta's Portfolio
+[![Vercel](https://therealsujitk-vercel-badge.vercel.app/?app=sayanta-portfolio)](https://sayanta-portfolio.vercel.app/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
----
+Welcome to the repository for my personal portfolio website. This site showcases my projects, skills, and professional journey as a developer. It is designed to be responsive, fast, and accessible.
 
-Welcome to my personal portfolio! This repository showcases my projects, skills, and experience in web development and other technical domains.
-
----
-
-## About Me
-
-I'm Sayanta, a passionate and dedicated web developer with a keen interest in building engaging and functional digital experiences. I enjoy exploring new technologies and continuously expanding my skillset to tackle diverse challenges.
+**Live Demo:** [https://sayanta-portfolio.vercel.app/](https://sayanta-portfolio.vercel.app/)
 
 ---
 
-## What You'll Find Here
+## 📖 Table of Contents
 
-* **Showcase of My Projects:** Explore a curated collection of my web development projects, ranging from simple static sites to more complex interactive applications. Each project includes a brief description, technologies used, and links to live demos (if available) and the project's individual repository.
-* **My Skills:** A comprehensive overview of the programming languages, frameworks, libraries, and tools I'm proficient in.
-* **My Resume/CV:** A link to my detailed resume for a complete look at my professional background and achievements.
-* **Contact Information:** Ways to get in touch with me for collaborations, job opportunities, or just a chat!
-
----
-
-## Technologies & Tools
-
-Here's a glimpse of the technologies I frequently work with:
-
-* **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Next.js, Bootstrap, Tailwind CSS
-* **Backend:** Node.js, Express.js, Python, Django, Flask
-* **Databases:** MongoDB, PostgreSQL, MySQL
-* **Version Control:** Git, GitHub
-* **Deployment:** Vercel, Netlify, Heroku
+- [About](#-about)
+- [Tech Stack](#-tech-stack)
+- [Features](#-features)
+- [Getting Started](#-getting-started)
+- [Deployment](#-deployment)
+- [Contact](#-contact)
 
 ---
 
-## Get in Touch
+## 👨‍💻 About
 
-I'm always open to new connections and collaborations. Feel free to reach out to me:
+Hi, I'm **Sayanta Haldar**. This portfolio acts as a central hub for my work in web development. The website provides an overview of my technical expertise, featured projects, and ways to connect with me. 
 
-* **LinkedIn:** https://www.linkedin.com/in/sayantahaldar/
-* **Email:** sayantahaldar.cyberexpert@gmail.com
+It is built with a focus on modern UI/UX principles and clean code structure.
 
 ---
 
-## Thanks for Visiting!
+## 🛠 Tech Stack
 
-I appreciate you taking the time to explore my portfolio. If you have any questions or feedback, please don't hesitate to contact me.
+The project is built using the following technologies:
+
+- **Frontend Framework:** [Next.js](https://nextjs.org/) / [React](https://reactjs.org/)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/) / [CSS Modules](https://github.com/css-modules/css-modules)
+- **Animations:** [Framer Motion](https://www.framer.com/motion/)
+- **Deployment:** [Vercel](https://vercel.com/)
+- **Icons:** [React Icons](https://react-icons.github.io/react-icons/)
+
+*(Note: If you used other tools like Three.js, TypeScript, or SCSS, feel free to add them here)*
+
+---
+
+## ✨ Features
+
+- 🎨 **Modern & Responsive Design:** Works seamlessly on desktop, tablet, and mobile.
+- ⚡ **High Performance:** Optimized for fast load times and smooth transitions.
+- 🌓 **Dark/Light Mode:** (Optional: Remove if not applicable)
+- 📱 **Interactive UI:** Engaging animations and user-friendly navigation.
+- 📄 **Project Showcase:** Detailed views of my featured work with links to code and live demos.
+
+---
+
+## 🚀 Getting Started
+
+To run this project locally on your machine, follow these steps:
+
+### Prerequisites
+
+Make sure you have the following installed:
+- [Node.js](https://nodejs.org/) (v14 or higher)
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/YOUR_USERNAME/sayanta-portfolio.git](https://github.com/YOUR_USERNAME/sayanta-portfolio.git)
+   cd sayanta-portfolio
