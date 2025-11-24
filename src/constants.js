@@ -3,7 +3,6 @@ import htmlLogo from "./assets/tech_logo/html.png";
 import cssLogo from "./assets/tech_logo/css.png";
 import javascriptLogo from "./assets/tech_logo/javascript.png";
 import reactjsLogo from "./assets/tech_logo/reactjs.png";
-import angularLogo from "./assets/tech_logo/angular.png";
 import nextjsLogo from "./assets/tech_logo/nextjs.png";
 import tailwindcssLogo from "./assets/tech_logo/tailwindcss.png";
 import gsapLogo from "./assets/tech_logo/gsap.png";
@@ -48,6 +47,10 @@ import MO from "./assets/tech_logo/MO.png";
 import CCI from "./assets/company_logo/CCI.jpg";
 import IS from "./assets/company_logo/IS.jpg";
 import CSI from "./assets/company_logo/CSI.jpg";
+import GI from "./assets/company_logo/GI.jpg";
+import ACPL from "./assets/company_logo/ACPL.jpg";
+import GDGDGR from "./assets/company_logo/GDGDGR.jpg";
+
 // Education Section Logo's
 import BCRAPC from "./assets/education_logo/BCRAPC.jpg";
 import YOUTH from "./assets/education_logo/YOUTH.jpg";
@@ -55,14 +58,8 @@ import BKMHS from "./assets/education_logo/BKMHS.jpg";
 
 // Project Section Logo's
 import githubdetLogo from "./assets/work_logo/github_det.png";
-import csprepLogo from "./assets/work_logo/cs_prep.png";
 import movierecLogo from "./assets/work_logo/movie_rec.png";
-import taskremLogo from "./assets/work_logo/task_rem.png";
-import npmLogo from "./assets/work_logo/npm.png";
-import webverLogo from "./assets/work_logo/web_dig.png";
-import cmLogo from "./assets/work_logo/cm.png";
 import imagesearchLogo from "./assets/work_logo/image_search.png";
-import removebgLogo from "./assets/work_logo/remove_bg.png";
 import vercel from "./assets/tech_logo/vercel.png";
 
 export const SkillsInfo = [
@@ -73,7 +70,6 @@ export const SkillsInfo = [
       { name: "CSS", logo: cssLogo },
       { name: "JavaScript", logo: javascriptLogo },
       { name: "React JS", logo: reactjsLogo },
-      { name: "Angular", logo: angularLogo },
       { name: "Next JS", logo: nextjsLogo },
       { name: "Tailwind CSS", logo: tailwindcssLogo },
       { name: "GSAP", logo: gsapLogo },
@@ -146,10 +142,58 @@ export const SkillsInfo = [
 export const experiences = [
   {
     id: 0,
+    img: GDGDGR,
+    role: "Member",
+    company: "Google Developer Group Durgapur",
+    date: "Jun 2025 - Present",
+    desc: "💫Cutting-edge Content: Built safe, secure, and scalable solutions with the latest Google tech.🌍Community Connections: Met like-minded developers, shared ideas, and explored real-world projects shaping the future of tech.🧠Hands-on Learning: From workshops to codelabs - practical learning for all skill levels.💬Truly, knowledge has no limits.",
+    skills: [
+      "Firebase Remote Config",
+      "Actionable JIRA Tickets with Gemma",
+      "AI for the Modern Living",
+      "Guilding Multi-Agent Systems with Google ADK",
+      "Firebase AI Logic",
+      "From Code to Cloud in Minutes",
+      "Flutter: From Zero to First App in 45 Minutes",
+    ],
+  },
+  {
+    id: 1,
+    img: ACPL,
+    role: "MERN Stack Intern",
+    company: "ARDENT COMPUTECH PVT LTD",
+    date: "Jun 2025 - Aug 2025",
+    desc: "During this time, I worked on Full Stack Web Development using the MERN Stack, where I developed a project on On-Demand Food Ordering 🍴💻.This experience has helped me strengthen my skills in:✅ MongoDB, Express.js, React.js & Node.js✅ Full-stack project development✅ Problem-solving & real-world application buildingExcited to continue growing and applying these skills in future projects! 🚀",
+    skills: [
+      "MongoDB",
+      "Express.js",
+      "React.js",
+      "Node.js",
+      "Full-stack project development",
+      "Problem-solving & real-world application building",
+    ],
+  },
+  {
+    id: 2,
+    img: GI,
+    role: "Java Developer Intern",
+    company: "Godrej Infotech Ltd",
+    date: "Jul 2025 - Aug 2025",
+    desc: "Completing an internship at Godrej Infotech Ltd. (GITL) 🏢, a leading global provider of IT solutions and consulting 💻, signifies a successful transition from academic theory 📚 to real-world corporate application and professional achievement. 🚀",
+    skills: [
+      "Java Development",
+      "Java",
+      "Software Development",
+      "Embedded Java",
+      "OOPS Concepts",
+    ],
+  },
+  {
+    id: 3,
     img: IS,
-    role: "Security Admin Associate",
+    role: "Security Admin Associate Intern",
     company: "Infotech Solutions",
-    date: "May 2025 - Present",
+    date: "May 2025 - Jul 2025",
     desc: "🔐 Collaborating with IT and development teams to secure systems and applications 🛡️ Performing security assessments using tools like OWASP ZAP and Burp Suite 📊 Participating in threat modeling, code reviews, and weekly security audits 📚 Continuously learning new cybersecurity methodologies, frameworks, and best practices",
     skills: [
       "Updated Soon",
@@ -161,7 +205,7 @@ export const experiences = [
     ],
   },
   {
-    id: 1,
+    id: 4,
     img: CCI,
     role: "Cyber Security Intern",
     company: "CODECRAFT INFOTECH",
@@ -176,7 +220,7 @@ export const experiences = [
     ],
   },
   {
-    id: 2,
+    id: 5,
     img: CSI,
     role: "CSI Accredited Student",
     company: "Computer Society of India",
@@ -186,7 +230,7 @@ export const experiences = [
       "Quantum Computing",
     ],
   },
-  
+
 ];
 
 export const education = [
@@ -282,7 +326,7 @@ export const projects = [
   //   webapp: "chrome://extensions/?id=kngheeibjnnidhfoomkpnbeghackheci",
   // },
   // 
-  
+
 ];
 
 

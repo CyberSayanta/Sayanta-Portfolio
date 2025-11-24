@@ -1,7 +1,6 @@
-import React from "react";
 import ReactTypingEffect from "react-typing-effect";
 import Tilt from "react-parallax-tilt";
-import profileImage from "../../assets/PNG.png";
+import profileImage from "../../assets/PP.jpg";
 
 const About = () => {
   return (
@@ -24,7 +23,7 @@ const About = () => {
           <h3 className="text-xl sm:text-2xl md:text-3xl font-semibold mb-4 text-[#8245ec] leading-tight">
             <span className="text-white">I&apos;m a </span>
             <ReactTypingEffect
-              text={[  
+              text={[
                 "Fullstack Developer",
                 "Cyber Security Analyst",
                 "Programmer",
@@ -49,7 +48,7 @@ const About = () => {
           </p>
           {/* Resume Button */}
           <a
-            href="https://drive.google.com/file/d/1U3bn25FZFFD1E2Urygxoh7hkyk5ndP35/view?usp=sharing"
+            href="https://drive.google.com/file/d/1GSOEW2INp3iaf0rpfI1tSBMApJjv8h-p/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
