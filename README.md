@@ -22,7 +22,7 @@ Welcome to the repository for my personal portfolio website. This site showcases
 
 ## 👨‍💻 About
 
-Hi, I'm **Sayanta Haldar**. This portfolio acts as a central hub for my work in web development. The website provides an overview of my technical expertise, featured projects, and ways to connect with me. 
+Hi, I'm **Sayanta Haldar**. This portfolio acts as a central hub for my work in web development. The website provides an overview of my technical expertise, featured projects, and ways to connect with me.
 
 It is built with a focus on modern UI/UX principles and clean code structure.
 
@@ -38,7 +38,7 @@ The project is built using the following technologies:
 - **Deployment:** [Vercel](https://vercel.com/)
 - **Icons:** [React Icons](https://react-icons.github.io/react-icons/)
 
-*(Note: If you used other tools like Three.js, TypeScript, or SCSS, feel free to add them here)*
+_(Note: If you used other tools like Three.js, TypeScript, or SCSS, feel free to add them here)_
 
 ---
 
@@ -59,12 +59,59 @@ To run this project locally on your machine, follow these steps:
 ### Prerequisites
 
 Make sure you have the following installed:
+
 - [Node.js](https://nodejs.org/) (v14 or higher)
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 
 ### Installation
 
 1. **Clone the repository:**
+
    ```bash
    git clone [https://github.com/YOUR_USERNAME/sayanta-portfolio.git](https://github.com/YOUR_USERNAME/sayanta-portfolio.git)
    cd sayanta-portfolio
+
+   Install dependencies:
+   ```
+
+Bash
+
+npm install
+
+# or
+
+yarn install
+Run the development server:
+
+Bash
+
+npm run dev
+
+# or
+
+yarn dev
+Open your browser: Visit http://localhost:3000 to view the app.
+
+📦 Deployment
+This project is optimized for deployment on Vercel, the creators of Next.js.
+
+Push your code to a GitHub repository.
+
+Import the project into Vercel.
+
+Vercel will automatically detect the framework and deploy your site.
+
+For more details, check out the Next.js Deployment Documentation.
+
+📬 Contact
+Feel free to reach out to me for collaborations or just a friendly hello!
+
+Website: sayanta-portfolio.vercel.app
+
+GitHub: github.com/your-github-username
+
+LinkedIn: linkedin.com/in/your-linkedin-profile
+
+Email: your-email@example.com
+
+Built with ❤️ by Sayanta Haldar
