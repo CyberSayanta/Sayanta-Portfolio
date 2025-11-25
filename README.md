@@ -78,9 +78,6 @@ npm install
 
 npm run dev
 
-# or
-
-yarn dev
 Open your browser: Visit http://localhost:3000 to view the app.
 
 📦 Deployment
