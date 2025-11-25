@@ -38,8 +38,6 @@ The project is built using the following technologies:
 - **Deployment:** [Vercel](https://vercel.com/)
 - **Icons:** [React Icons](https://react-icons.github.io/react-icons/)
 
-_(Note: If you used other tools like Three.js, TypeScript, or SCSS, feel free to add them here)_
-
 ---
 
 ## ✨ Features
@@ -78,13 +76,6 @@ Bash
 
 npm install
 
-# or
-
-yarn install
-Run the development server:
-
-Bash
-
 npm run dev
 
 # or
@@ -108,10 +99,10 @@ Feel free to reach out to me for collaborations or just a friendly hello!
 
 Website: sayanta-portfolio.vercel.app
 
-GitHub: github.com/your-github-username
+GitHub: (https://github.com/CyberSayanta)
 
-LinkedIn: linkedin.com/in/your-linkedin-profile
+LinkedIn: https://www.linkedin.com/in/sayantahaldar/
 
-Email: your-email@example.com
+Email: sayantahldar.cyberexpert@gmail.com
 
 Built with ❤️ by Sayanta Haldar
